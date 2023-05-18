@@ -4,6 +4,8 @@ Este proyecto es un encriptador y desencriptador de texto desarrollado utilizand
 
 El usuario puede ingresar un texto y selecciona la acción que desea realizar, encriptar para cifrarlo o encriptarlo y desencriptar para realizar la accion que describe la palabra.
 
+![Screenshot Desktop](img/Captura de pantalla 2023-05-17 PC.png)
+
 ## Características principales:
 
  1. Encriptación y desencriptación de texto utilizando un algoritmo personalizado. 
