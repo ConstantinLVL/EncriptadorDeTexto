@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/26e44d7151.js" crossorigin="anonymous"></script>
+    <script src="app.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Encriptador | Alura</title>
+</head>
+<body>
+
+    <div class="container-principal">
+
+        <div class="container-left">
+            <header class="header">
+                <h2 class="header-logo">
+                    <a href="#"><img class="logo-img" src="img/Logo.svg" alt=""></a>
+                </h2>
+            </header>
+        
+            <div class="text-input">
+                <textarea class="input-textarea" id="textarea-input-js" placeholder="Ingrese el texto aqui"></textarea>
+            </div>
+        
+            <div class="buttoms">
+                <p class="paragraph-advertencia"><i class="fa-sharp fa-solid fa-circle-exclamation"></i> Solo letras minúsculas y sin acentos</p>
+                <div class="buttom-solos">
+                    <div id="buttom-encriptar-js" class="buttom-encriptar buttom">
+                        <p class="buttom-text-encriptar">Encriptar</p>
+                    </div>
+                    <div id="buttom-desencriptar-js" class="buttom-desencriptar buttom">
+                        <p class="buttom-text-desencriptar">Desencriptar</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container-right">
+            <div id="container-text-output" class="container-text-output">
+                <img src="img/Muñeco.svg" alt="Muñeco" class="output-img eraser">
+                <h3 class="output-text eraser">Ningún mensaje fue encontrado</h3>
+                <p class="output-paragraph eraser">Ingresa el texto que desees encriptar o desencriptar.</p>
+                <textarea disabled id="output-paragraph-format" class="output-paragraph-format"></textarea>
+                <buttom id="buttom-copy buttom" class="buttom-copy buttom"> 
+                    <p class="buttom-text-copy" id="buttom-text-copy">Copiar</p> 
+                </buttom>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- <footer>David para Alura</footer> -->
+
+</body>
+</html>
