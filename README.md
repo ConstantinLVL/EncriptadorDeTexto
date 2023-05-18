@@ -11,3 +11,7 @@ El usuario puede ingresar un texto y selecciona la acción que desea realizar, e
  2. Interfaz intuitiva y fácil de usar. 
  
  3. Implementado con JavaScript para manipular y transformar el texto.
+
+## Versiones
+
+¡Bienvenidos a la versión 1 de mi proyecto! Actualmente, estoy emocionado de compartir esta versión inicial con ustedes. Sin embargo, quiero destacar que estoy trabajando arduamente en la versión 2, que incluirá mejoras significativas y será aún más adaptable a dispositivos móviles. Estén atentos a las próximas actualizaciones, ya que planeo lanzar la versión 2 en un futuro cercano.
