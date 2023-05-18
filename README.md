@@ -6,6 +6,8 @@ El usuario puede ingresar un texto y selecciona la acción que desea realizar, e
 
 ## Características principales:
 
-##### 1. Encriptación y desencriptación de texto utilizando un algoritmo personalizado. 
-##### 2. Interfaz intuitiva y fácil de usar. 
-##### 3. Implementado con JavaScript para manipular y transformar el texto.
+ 1. Encriptación y desencriptación de texto utilizando un algoritmo personalizado. 
+
+ 2. Interfaz intuitiva y fácil de usar. 
+ 
+ 3. Implementado con JavaScript para manipular y transformar el texto.
